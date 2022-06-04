@@ -13,3 +13,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexismcode&theme=prussian&show_icons=true&locale=en&layout=compact" alt="alexismcode" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexismcode&theme=prussian&show_icons=true&locale=en" alt="alexismcode" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexismcode&theme=prussian" alt="alexismcode" /></p>
+
