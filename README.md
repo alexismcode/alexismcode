@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/79610034/170409954-4bc4306a-fe33-47d3-9841-c014c2d1911b.png)
+![banner2](https://user-images.githubusercontent.com/79610034/172014092-4b36ab30-7306-4bf8-9ba1-326c19e5467e.png)
 
 <h1 align="center">Hi there 🖐️, I'm Alexis 🧑‍</h1>
 
